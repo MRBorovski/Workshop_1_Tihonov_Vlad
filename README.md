@@ -1,6 +1,7 @@
 # Task 1
-
-|![Gigachad](https://github.com/MRBorovski/Workshop_1_Tihonov_Vlad/blob/main/Workshop/GIGACHAD.png)|![PWT](https://github.com/MRBorovski/Workshop_1_Tihonov_Vlad/blob/main/Workshop/Photo%20with%20text.png) | |
+|                                       Gigachad                                                   |                                          Photo with Text                                                |                                              Gothia                                                     |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|![Gigachad](https://github.com/MRBorovski/Workshop_1_Tihonov_Vlad/blob/main/Workshop/GIGACHAD.png)|![PWT](https://github.com/MRBorovski/Workshop_1_Tihonov_Vlad/blob/main/Workshop/Photo%20with%20text.png) |![Gothia](https://github.com/MRBorovski/Workshop_1_Tihonov_Vlad/blob/main/Workshop/Gothia%203%20(2).png) |
 
 ## 1. Аналіз вихідних файлів
 ### 1.	Виберіть 3 типи зображень (фотографія, скріншот, графічне зображення з текстом).
