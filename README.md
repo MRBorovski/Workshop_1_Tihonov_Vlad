@@ -1,6 +1,6 @@
 # Task 1
 
-! [Gigachad](https://github.com/MRBorovski/Workshop_1_Tihonov_Vlad/blob/main/Workshop/GIGACHAD.png)
+![Gigachad](https://github.com/MRBorovski/Workshop_1_Tihonov_Vlad/blob/main/Workshop/GIGACHAD.png)
 
 ## 1. Аналіз вихідних файлів
 ### 1.	Виберіть 3 типи зображень (фотографія, скріншот, графічне зображення з текстом).
